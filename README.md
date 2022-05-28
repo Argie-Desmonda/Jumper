@@ -44,4 +44,5 @@ collision():
 if player.location == obstacle.location{"GAME OVER"}"
 
 
+## Click gambar dibawah untuk melihat vidionya
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x2EpBzmdLuQ/0.jpg)](https://www.youtube.com/watch?v=x2EpBzmdLuQ)
